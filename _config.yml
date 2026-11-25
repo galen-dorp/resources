@@ -14,7 +14,7 @@ nav:
   - title: Home
     url: /
   - title: Resources
-    url: /resources/
+    url: /links/
 
 exclude:
   - README.md

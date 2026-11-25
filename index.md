@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# AI & Mathematics
+# Ghost in the Shell
 
 <p class="lede"></p>
 
