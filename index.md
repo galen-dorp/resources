@@ -5,21 +5,26 @@ title: Home
 
 # AI & Mathematics
 
-<p class="lede">This site collects writing, organizations and resources.</p>
+<p class="lede"></p>
+
+AI is changing math.
+The goal of this site is to collect materials and resources for young researchers trying to decide how to use AI in their research.
 
 <div class="mission" markdown="1">
 
-**Our mission**
+**Core Principles**
 
-- Researchers need to adapt to the new AI landscape.
-- We need to be dynamic, pragmatic, and strategic.
-- We need to own our narrative, instead of letting others write it for us.
+- Researchers need to adapt to the new AI landscape
+- We need to be dynamic, pragmatic, and strategic
+- No one knows for sure what will happen in the next 3-5 years
 
 </div>
 
-See the [Resources]({{ '/resources/' | relative_url }}) tab for articles, organizations, declarations and more.
 
-## In their words
+For a general resource list on AI and math, check out [Northwestern's resource page](https://sites.northwestern.edu/airesourcesmath/).
+
+
+## Opinions from Mathematicians
 
 {% for q in site.data.quotes %}
 <figure class="quote">
