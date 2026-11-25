@@ -5,7 +5,7 @@ title: Home
 
 # AI & Mathematics
 
-<p class="lede">AI tools are changing how mathematical research is done. This site collects writing, organizations and resources to help mathematicians respond.</p>
+<p class="lede">This site collects writing, organizations and resources.</p>
 
 <div class="mission" markdown="1">
 
