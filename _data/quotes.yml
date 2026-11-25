@@ -6,7 +6,55 @@
 #   text:   the quote itself (markdown allowed; keep the "|" and indent the lines)
 
 - who: Charlie Fefferman
-  source: The New Yorker
+  source: Rivka Galchen for The New Yorker
   url: https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever#rid=af1988ae-2129-4254-bad7-822e64f1983c&q=mathematic
   text: |
     Mathematicians used to need both originality and technical power.... “I think that A.I. will take over power,” Fefferman said. “It’s natural for us mathematicians to feel anxiety. But I think there’s a chance that A.I. will be a great accelerator of progress, and it will be our job to adjust to the new way of doing math.”
+
+- who: Michael Hopkins
+  source: Jennifer Chu for MIT News
+  url: https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120
+  text: |
+    He also highlighted one particular student, who seemed to be a sort of “horse whisperer of AI.” This student has good mathematical instincts, Hopkins said, but struggles with execution. They are motivated by curiosity, rather than being first to a solution, and have a way of prompting AI to produce interesting insights. “This may be a new kind of mathematician,” Hopkins said. 
+
+- who: Bryna Kra
+  source: Jennifer Chu for MIT News
+  url: https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120
+  text: |
+    “It shouldn’t matter that you’re first,” Kra said. “Speed should not be a priority. It’s not about the proof production anymore. We need to find other ways to assess understanding.”
+
+- who: Bryna Kra
+  source: Jennifer Chu for MIT News
+  url: https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120
+  text: |
+  Where journal editors have traditionally prioritized publishing new proofs that push the field forward, Kra sees that, in response to AI “slop,” some publications are putting more value on exposition — the section of a paper that explains the reasoning behind a conjecture or proof. For now, humans have the advantage over AI in communicating mathematical ideas.
+
+- who: Jeremy Avigad
+  source: Terrence Tao's Blog
+  url: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/
+  text: |
+  Mathematics is as important today as it ever was, and we need you. AI must not replace our collective ability to reason and deliberate, and mathematics remains a core capacity for doing so. (...)
+
+- who: Jeremy Avigad
+  source: Terrence Tao's Blog
+  url: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/
+  text: |
+  The next few years will be extremely interesting. We are at a new frontier, where our communal norms, values, and expectations are beginning to break down, and it’s up to all of us to figure out what should replace them. I am confident that future historians will see this moment as the start of a new era of mathematics, and that they will weigh the consequences of our actions and decisions. Mathematics has never been for the faint of heart; this is our opportunity to rise to the occasion and face the challenges together. 
+
+- who: Tristan Buckmeister
+  source: Jennifer Chu for MIT News
+  url: https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120
+  text: |
+  “AI is going to affect everyone (beyond mathematicians),” said Buckmaster, who urged students to stay the course “rather than escape or jump ship to another field. … Think of new ways to be creative and communicate your ideas,” he said. “Just do what you love.”
+
+- who: Jacopo Borga
+  source: Jennifer Chu for MIT News
+  url: https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120
+  text: |
+  As AI forces the field of mathematics to adapt and change its centuries-long ways of pursuing knowledge, Borga and others see the moment as a new beginning, rather than math’s end. “The castle is collapsing,” Borga says. “There’s open ground to explore.”
+
+- who: Stephen Wolfram
+  source: personal blog
+  url: https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/
+  text: |
+  Pure mathematics stands as the single largest intellectual edifice built by our civilization. And out of it have come some of the most impactful ideas in human intellectual history—like formalization, abstraction and computation. In modern times, there are some accelerators for pure mathematics. Practical computation has been one. AI is another. Experimental mathematics in the style of ruliology is yet another, still fairly undeveloped. And I’d like to think that the language for pure mathematics that we’re building will—particularly when combined with AI—be still another.
