@@ -8,20 +8,26 @@ permalink: /links/
 
 ## Articles, Videos, and Radio Interviews
 
-* [Terence Tao](https://terrytao.wordpress.com/)’s blog, especially [this post from Jeremy Avigad](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/)
-* [New Yorker](https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever) - “The Year Math Changed Forever”
+* [Mathematical methods and human thought in the age of AI](https://arxiv.org/abs/2603.26524) by Tanya Klowden and Terence Tao
+* [The Year Math Changed Forever](https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever) in the New Yorker
 * [NPR interview with Dana Moshkovitz (UT Austin)](https://www.npr.org/2026/10/21/nx-s1-5995392/ai-is-shaking-up-the-field-of-mathematics-but-what-comes-next)
-* [Scientific American](https://www.scientificamerican.com/article/ai-is-disrupting-math-is-science-next/) - “After math, will AI upend science, too?”
-* [Nature](https://www.nature.com/articles/s43588-026-01112-8) - “The Rise of AI in Mathematics and Science”
-* [Quanta](https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/) - “Machine Learning Becomes a Mathematical Collaborator” (older article!)
-* [Quanta](https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/) - “Is AI the end of Mathematics as we know it?”
+* [After math, will AI upend science, too?](https://www.scientificamerican.com/article/ai-is-disrupting-math-is-science-next/) in Scientific American
+* [The Rise of AI in Mathematics and Science](https://www.nature.com/articles/s43588-026-01112-8) in Nature
+* [Machine Learning Becomes a Mathematical Collaborator](https://www.quantamagazine.org/deepmind-machine-learning-becomes-a-mathematical-collaborator-20220215/) in Quanta
+* [Is AI the end of Mathematics as we know it?](https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/) in Quanta
 * [Wikipedia](https://en.wikipedia.org/wiki/Mathematics_and_artificial_intelligence) - “Mathematics and AI”
-* [Stephen Wolfram](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/) - “What’s the Future for Pure Math Research in the Age of AI?”
-* [Summary of Panel](https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120) - “Following the ‘Mathpocalypse,’ mathematicians consider the future”
-* [Medium](https://medium.com/@prescod/mathematics-is-dead-long-live-mathematics-99ab97687ba8) - “Mathematics is Dead, Long Live Mathematics”
-* [Daniel Litt](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics/) - “The End of Mathematics”
-* [a16z Frontier YouTube video](https://www.youtube.com/watch?v=KPIY2W4mphI) - “If AI Can Do the Math, What Do Mathematicians Do?”
-* [3Blue1Brown](https://www.youtube.com/watch?v=zqzk43bSdDI) - “We’ve been asking: ‘What if AI solved the Riemann Hypothesis?’”
+* [What’s the Future for Pure Math Research in the Age of AI?](https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/) by Stephen Wolfram
+* [Following the ‘Mathpocalypse,’ mathematicians consider the future](https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120)
+* [Mathematics is Dead, Long Live Mathematics](https://medium.com/@prescod/mathematics-is-dead-long-live-mathematics-99ab97687ba8)
+* [The End of Mathematics](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics/) by Daniel Litt
+* [If AI Can Do the Math, What Do Mathematicians Do?](https://www.youtube.com/watch?v=KPIY2W4mphI) by a16z
+* [We’ve been asking: "What if AI solved the Riemann Hypothesis?"](https://www.youtube.com/watch?v=zqzk43bSdDI) by 3Blue1Brown 
+* [Summit on Math Research in the Age of AI](Summit on Math Research in the Age of AI)
+
+## Blogs
+
+* [Terence Tao](https://terrytao.wordpress.com/)’s blog, especially [this post from Jeremy Avigad](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/)
+* [Proofs and Prompts](https://proofsandprompts.com/), a communal blog on math and AI
 
 ## Organizations
 
