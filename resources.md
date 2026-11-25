@@ -6,7 +6,7 @@ permalink: /resources/
 
 # Resources
 
-## In Print / on the Radio
+## In Print / on the Radio / Video
 
 * [Terence Tao](https://terrytao.wordpress.com/)’s blog, especially [this post from Jeremy Avigad](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/)
 * [New Yorker](https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever) - “The Year Math Changed Forever”
@@ -20,11 +20,14 @@ permalink: /resources/
 * [Summary of Panel](https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120) - “Following the ‘Mathpocalypse,’ mathematicians consider the future”
 * [Medium](https://medium.com/@prescod/mathematics-is-dead-long-live-mathematics-99ab97687ba8) - “Mathematics is Dead, Long Live Mathematics”
 * [Daniel Litt](https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics/) - “The End of Mathematics”
+* [a16z Frontier YouTube video](https://www.youtube.com/watch?v=KPIY2W4mphI) - “If AI Can Do the Math, What Do Mathematicians Do?”
+* [3Blue1Brown](https://www.youtube.com/watch?v=zqzk43bSdDI) - “We’ve been asking: ‘What if AI solved the Riemann Hypothesis?’”
 
 ## Organizations
 
 * [First Proof Project](https://1stproof.org/) - their mission is to ground conversations about the role of AI tools by understanding the capabilities and limits of these tools ([video of Lauren Williams explaining the project](https://www.youtube.com/watch?v=4RDv_g2NFf0))
 * [Advisory Group on AI and Mathematics](https://agmai.org/) (sponsored by the Institute for Advanced Study at Princeton)
+* [Hexagon Math](https://hexagonmath.org/)
 
 ## Resource Lists for Mathematicians
 
