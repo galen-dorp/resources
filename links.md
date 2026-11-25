@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Resources
-permalink: /resources/
+permalink: /links/
 ---
 
 # Resources
 
-## In Print / on the Radio / Video
+## Articles, Videos, and Radio Interviews
 
 * [Terence Tao](https://terrytao.wordpress.com/)’s blog, especially [this post from Jeremy Avigad](https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/)
 * [New Yorker](https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever) - “The Year Math Changed Forever”
