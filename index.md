@@ -11,7 +11,7 @@ AI is changing math.
 Researchers need to adapt, especially early-career researchers.
 Our goal is to help help young researchers decide for themselves how they want to interact with AI.
 
-For a general resource list on AI and math, check out [Northwestern's resource page](https://sites.northwestern.edu/airesourcesmath/).
+For a general resource list on AI and math, check out the [AMS resource list](https://www.ams.org/ai/ai) or [Northwestern's resource page](https://sites.northwestern.edu/airesourcesmath/).
 
 <div class="mission" markdown="1">
 
