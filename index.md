@@ -8,11 +8,14 @@ title: Home
 <p class="lede"></p>
 
 AI is changing math.
-The goal of this site is to collect materials and resources for young researchers trying to decide how to use AI in their research.
+Researchers need to adapt, especially early-career researchers.
+Our goal is to help help young researchers decide for themselves how they want to interact with AI.
+
+For a general resource list on AI and math, check out [Northwestern's resource page](https://sites.northwestern.edu/airesourcesmath/).
 
 <div class="mission" markdown="1">
 
-**Core Principles**
+**Our Hypotheses**
 
 - Researchers need to adapt to the new AI landscape
 - We need to be dynamic, pragmatic, and strategic
@@ -21,7 +24,7 @@ The goal of this site is to collect materials and resources for young researcher
 </div>
 
 
-For a general resource list on AI and math, check out [Northwestern's resource page](https://sites.northwestern.edu/airesourcesmath/).
+
 
 
 ## Opinions from Mathematicians
