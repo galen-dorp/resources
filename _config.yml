@@ -1,0 +1,20 @@
+title: AI & Mathematics
+description: A catalogue of resources on artificial intelligence and mathematical research.
+
+# If your site lives at https://USERNAME.github.io/REPO-NAME/, set baseurl to "/REPO-NAME".
+# If it lives at https://USERNAME.github.io/ (a repo named USERNAME.github.io), leave it empty.
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+
+# Tabs shown in the top navigation, in order.
+nav:
+  - title: Home
+    url: /
+  - title: Resources
+    url: /resources/
+
+exclude:
+  - README.md

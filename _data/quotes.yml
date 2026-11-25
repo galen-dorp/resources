@@ -1,0 +1,12 @@
+# Quotes shown on the front page, in order.
+# To add one, copy a block below and fill it in. Fields:
+#   who:    person quoted
+#   url:    link to the source (optional)
+#   source: publication or venue (optional)
+#   text:   the quote itself (markdown allowed; keep the "|" and indent the lines)
+
+- who: Charlie Fefferman
+  source: The New Yorker
+  url: https://www.newyorker.com/magazine/2026/11/09/the-year-math-changed-forever#rid=af1988ae-2129-4254-bad7-822e64f1983c&q=mathematic
+  text: |
+    Mathematicians used to need both originality and technical power.... “I think that A.I. will take over power,” Fefferman said. “It’s natural for us mathematicians to feel anxiety. But I think there’s a chance that A.I. will be a great accelerator of progress, and it will be our job to adjust to the new way of doing math.”

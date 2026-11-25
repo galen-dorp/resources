@@ -1,0 +1,79 @@
+:root {
+  --ink: #1d2130;
+  --muted: #5b6275;
+  --accent: #2f4fa8;
+  --accent-soft: #eef2fb;
+  --rule: #e3e6ee;
+  --bg: #fdfdfb;
+  --serif: "Source Serif 4", Georgia, serif;
+  --sans: "Inter", system-ui, -apple-system, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+
+.wrap { max-width: 46rem; margin: 0 auto; padding: 0 1.25rem; }
+
+a { color: var(--accent); text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+
+/* Header + tabs */
+.site-header { border-bottom: 1px solid var(--rule); background: #fff; }
+.site-header .wrap {
+  display: flex; align-items: center; justify-content: space-between;
+  flex-wrap: wrap; gap: .5rem 1.5rem; padding-top: 1rem;
+}
+.site-title {
+  font-family: var(--sans); font-weight: 600; font-size: 1.05rem;
+  color: var(--ink); text-decoration: none; padding-bottom: 1rem;
+}
+.tabs { display: flex; gap: .25rem; font-family: var(--sans); font-size: .95rem; }
+.tabs a {
+  color: var(--muted); text-decoration: none;
+  padding: .4rem .85rem 1rem; border-bottom: 2px solid transparent;
+}
+.tabs a:hover { color: var(--ink); }
+.tabs a.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 500; }
+
+/* Content */
+.content { padding-top: 2.5rem; padding-bottom: 3rem; }
+h1, h2, h3 { font-family: var(--sans); line-height: 1.25; }
+h1 { font-size: 2rem; margin: 0 0 1rem; letter-spacing: -.01em; }
+h2 {
+  font-size: 1.25rem; margin: 2.5rem 0 .75rem;
+  padding-bottom: .35rem; border-bottom: 1px solid var(--rule);
+}
+.lede { font-size: 1.2rem; color: var(--muted); }
+li { margin: .35rem 0; }
+
+/* Mission */
+.mission {
+  background: var(--accent-soft); border-radius: 10px;
+  padding: 1.25rem 1.5rem; margin: 1.5rem 0 2rem;
+}
+.mission ul { margin: 0; padding-left: 1.2rem; }
+.mission li { margin: .5rem 0; }
+
+/* Quotes */
+.quote {
+  margin: 1.5rem 0; padding: 1rem 0 1rem 1.25rem;
+  border-left: 3px solid var(--accent);
+}
+.quote blockquote { margin: 0; font-style: italic; }
+.quote blockquote p { margin: 0 0 .5rem; }
+.quote figcaption { font-family: var(--sans); font-size: .9rem; color: var(--muted); }
+.quote figcaption a { font-weight: 500; }
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid var(--rule); padding: 1.25rem 0;
+  font-family: var(--sans); font-size: .85rem; color: var(--muted);
+}
